@@ -120,3 +120,15 @@ worrying about boilerplate logic using CDK's library of infrastructure component
 ## Architecture Diagram
 ![image](https://github.com/AmberHou1230/NLP-Build-an-Incremental-Crypto-Data-Pipeline-with-AWS-Cloud-Development-Toolkit/assets/116517923/8eff3d89-2fb1-4247-9949-e19ca8a182eb)
 
+## Project Walkthrough
+
+### AWS Cloud 9 Setup
+
+- go to aws.amazon.com
+- Login to Console
+- Search for Cloud 9
+- Create a new Cloud 9 environment
+
+- Why Cloud 9? It will allow us to run in a Linux environment. It will help us avoid any compatibility issues.
+
+- 
